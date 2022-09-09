@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋 welcome to my profile
+Below are the few things you should note about me:
 
-<!--
-**Nathaniyell/Nathaniyell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    🚀My goal is to give the end users 100%-satisfaction.
+    👍 Constantly, I will achieve effectiveness, high quality, and fastest delivery.
+    👨‍🎓 I strive to make today better than yesterday, I am in an endless learning loop.
+    😃 Have a Project in your Mind?
+    ✨ I will implement your great ideas to be live perfectly.
+    📫 Contact me today via the email provided on my bio or via LinkedIn: linkedin.com/in/thaniyell.
 
-Here are some ideas to get you started:
+CORE SKILLS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    ⭐ ReactJS 
+    ⭐ HTML | CSS | Bootstrap | JavaScript | jQuery
+   
