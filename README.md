@@ -12,4 +12,5 @@ CORE SKILLS
 
     ⭐ ReactJS 
     ⭐ HTML | CSS | Bootstrap | JavaScript | jQuery
+    ⭐ Front End Web Development
    
