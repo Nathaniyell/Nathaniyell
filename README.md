@@ -13,4 +13,6 @@ Below are the few things you should note about me:
     ⭐ ReactJS 
     ⭐ HTML | CSS | Bootstrap | JavaScript | jQuery
     ⭐ Front End Web Development
+    
+    ![Profile views](https://gpvc.arturio.dev/Nathaniyell)
    
