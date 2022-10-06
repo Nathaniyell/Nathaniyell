@@ -6,7 +6,7 @@ Below are the few things you should note about me:
     👨‍🎓 I strive to make today better than yesterday, I am in an endless learning loop.
     ✨ I will implement your great ideas to be live perfectly.
     😃 Have a Project in your Mind?
-    📫 Contact me today via the email provided on my bio or via <a href="https://linkedin.com/in/thaniyell">LinkedIn</a>
+    📫 Contact me today via the email provided on my bio or via [LinkedIn](https://linkedin.com/in/thaniyell)
 
 # CORE SKILLS
 
@@ -14,5 +14,5 @@ Below are the few things you should note about me:
     ⭐ HTML | CSS | Bootstrap | JavaScript | jQuery
     ⭐ Front End Web Development
     
-    ![Profile views](https://gpvc.arturio.dev/Nathaniyell)
+   [Profile views](https://gpvc.arturio.dev/Nathaniyell)
    
