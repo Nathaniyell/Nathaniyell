@@ -34,6 +34,9 @@ Below are the few things you should note about me:
 <br> 
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathaniyell&langs_count=10&theme=tokyonight)]()
+<br>
+
+![Profile views](https://gpvc.arturio.dev/Nathaniyell)
     
   
    
