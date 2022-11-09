@@ -1,7 +1,7 @@
 # Hi there 😁👋🏾, I’m **Nathaniel Essien**
 ## Front End Developer 💻
 
-### CORE SKILLS AND EXPERTIZE
+### CORE SKILLS AND EXPERTISE
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)<br> 
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)<br> 
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)<br> 
@@ -22,10 +22,10 @@ Below are the few things you should note about me:
     ✨ I will implement your great ideas to be live perfectly.
     🤗 Do you have an idea in mind? Let me help you bring it to life 😎 (and do so brilliantly)
         - 📫 How to reach me 
-             - Mail: ✉ essien.nathan@yahoo.com 
-             - Phone: 📱 +234 (0)9034940576
+             - Mail: ✉ essien.nathan@yahoo.com,
+             - Phone: 📱 +234 (0)9034940576,
              - WhatsApp: +234 9034940576, 
-             - Linkedin: ![Nathaniel Essien](https://www.linkedin.com/in/thaniyell)
+             - Linkedin: Nathaniel Essien
    
 ## Profile Stats
 
