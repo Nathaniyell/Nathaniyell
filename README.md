@@ -21,10 +21,18 @@ Hello there! 👋🏾 My name is Nathaniel Essien, and I'm a passionate Front En
 - Email: ✉ essien.nathan@yahoo.com
 - Phone: 📱 +234 (0)9034940576
 - WhatsApp: 📱 +234 9034940576
-- Linkedin: [Nathaniel Essien](https://www.linkedin.com/in/nathaniel-essien/)
 
-## Profile Stats
+ ## Connect with me
+<p align="left">
+<a class="me-2" href="https://www.linkedin.com/in/thaniyell" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"            alt="jsiqbal" height="30" width="40" />
+ </a>
+<a href="https://twitter.com/_kvngNath" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="javascriptiqbal" height="30" width="40" /></a>
+</p>
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Nathaniyell&count_private=true&theme=tokyonight&showicons=true)
+## ⚙️ GitHub Stats
 
-![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathaniyell&langs_count=10&theme=tokyonight)
+![Github Stats](https://github-readme-stats.vercel.app/api/?username=Nathaniyell&count_private=true&theme=tokyonight&showicons=true) &nbsp; &nbsp;  <br/> <br/>
+![Activity Stats](https://github-readme-streak-stats.herokuapp.com/?user=Nathaniyell&theme=tokyonight&showicons=true) <br/>  <br/>
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathaniyell&langs_count=5&theme=tokyonight&hide=html,css)
