@@ -1,6 +1,6 @@
 # Nathaniel Essien - Front End Developer
 
-![Profile views](https://gpvc.arturio.dev/Nathaniyell)
+![Profile views](https://gpvc.arturio.dev/[Nathaniyell])
 
 ## Introduction
 Hello there! 👋🏾 My name is Nathaniel Essien, and I'm a passionate Front End Developer. My goal is to provide end users with 100% satisfaction by delivering effective, high-quality, and fast solutions. I'm constantly learning and striving to improve, making each day better than the last. I love bringing great ideas to life and implementing them flawlessly.
@@ -33,6 +33,14 @@ Hello there! 👋🏾 My name is Nathaniel Essien, and I'm a passionate Front En
 
 ## ⚙️ GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api/?username=Nathaniyell&count_private=true&theme=tokyonight&showicons=true) &nbsp; &nbsp;  <br/> <br/>
-![Activity Stats](https://github-readme-streak-stats.herokuapp.com/?user=Nathaniyell&theme=tokyonight&showicons=true) <br/>  <br/>
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathaniyell&langs_count=5&theme=tokyonight&hide=html,css)
+
+ <a href="https://github.com/anuragha/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nathaniyell&show_icons=true&theme=radical" /><br />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathaniyell&langs_count=8&layout=compact&theme=radical" />
+</a>
+
+<!--![Github Stats](https://github-readme-stats.vercel.app/api/?username=Nathaniyell&count_private=true&theme=tokyonight&showicons=true) -->
+<!-- ![Activity Stats](https://github-readme-streak-stats.herokuapp.com/?user=Nathaniyell&theme=tokyonight&showicons=true)  -->
+<!--![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathaniyell&langs_count=5&theme=tokyonight&hide=html,CSS)-->
