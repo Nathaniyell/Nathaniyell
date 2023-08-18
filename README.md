@@ -3,7 +3,7 @@
 ![Profile views](https://gpvc.arturio.dev/[Nathaniyell])
 
 ## Introduction
-Hello there! 👋🏾 My name is Nathaniel Essien, and I'm a passionate Front End Developer. My goal is to provide end users with 100% satisfaction by delivering effective, high-quality, and fast solutions. I'm constantly learning and striving to improve, making each day better than the last. I love bringing great ideas to life and implementing them flawlessly.
+👋 Hi there! I'm Nathaniel Essien, a detail-driven Frontend Engineer passionate about crafting user-centric web applications that elevate brand visibility. I specialise in translating concepts into impactful digital solutions using cutting-edge technologies like React, JavaScript, and TailwindCSS. With a commitment to delivering exceptional work and exceeding expectations, I'm excited to collaborate on projects that push the boundaries of frontend development. Let's connect and build remarkable web experiences together! 🚀
 
 ## Core Skills and Expertise
 - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
