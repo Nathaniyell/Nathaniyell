@@ -1,6 +1,7 @@
 # Nathaniel Essien - Front End Developer
 
-![Profile views](https://gpvc.arturio.dev/[Nathaniyell])
+<!--![Profile views](https://gpvc.arturio.dev/[Nathaniyell])-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nathaniyell&label=Profile%20views&color=0e75b6&style=flat" alt="nathaniyell" /> </p>
 
 ## Introduction
 👋 Hi there! I'm Nathaniel Essien, a detail-driven Frontend Engineer passionate about crafting user-centric web applications that elevate brand visibility. I specialise in translating concepts into impactful digital solutions using cutting-edge technologies like React, JavaScript, and TailwindCSS. With a commitment to delivering exceptional work and exceeding expectations, I'm excited to collaborate on projects that push the boundaries of frontend development. Let's connect and build remarkable web experiences together! 🚀
