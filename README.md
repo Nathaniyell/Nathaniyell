@@ -35,13 +35,14 @@
 ## ⚙️ GitHub Stats
 
 
- <a href="https://github.com/anuragha/github-readme-stats">
+<!--<a href="https://github.com/anuragha/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nathaniyell&show_icons=true&theme=radical" /><br />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathaniyell&langs_count=8&layout=compact&theme=radical" />
-</a>
+</a>-->
 
-<!--![Github Stats](https://github-readme-stats.vercel.app/api/?username=Nathaniyell&count_private=true&theme=tokyonight&showicons=true) -->
-<!-- ![Activity Stats](https://github-readme-streak-stats.herokuapp.com/?user=Nathaniyell&theme=tokyonight&showicons=true)  -->
-<!--![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathaniyell&langs_count=5&theme=tokyonight&hide=html,CSS)-->
+
+![Github Stats](https://github-readme-stats.vercel.app/api/?username=Nathaniyell&count_private=true&theme=tokyonight&showicons=true)
+![Activity Stats](https://github-readme-streak-stats.herokuapp.com/?user=Nathaniyell&theme=tokyonight&showicons=true)
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathaniyell&langs_count=5&theme=tokyonight)
