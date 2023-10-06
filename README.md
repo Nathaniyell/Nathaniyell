@@ -21,7 +21,6 @@
 ## Contact Information
 - Email: ✉ essien.nathan@yahoo.com
 - Phone: 📱 +234 (0)9034940576
-- WhatsApp: 📱 +234 9034940576
 
  ## Connect with me
 <p align="left">
