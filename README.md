@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nathaniyell&label=Profile%20views&color=0e75b6&style=flat" alt="nathaniyell" /> </p>
 
 ## Introduction
-👋 Hi there! I'm Nathaniel Essien, a detail-driven Frontend Engineer passionate about crafting user-centric web applications that elevate brand visibility. I specialise in translating concepts into impactful digital solutions using cutting-edge technologies like React, JavaScript, and TailwindCSS. With a commitment to delivering exceptional work and exceeding expectations, I'm excited to collaborate on projects that push the boundaries of frontend development. Let's connect and build remarkable web experiences together! 🚀
+👋 Hi there! I'm Nathaniel Essien, a detail-driven Frontend Engineer passionate about crafting user-centric web applications that elevate brand visibility. I specialise in translating concepts into impactful digital solutions using cutting-edge technologies like React, NextJs, JavaScript, Typescript, TailwindCSS and Bootstrap. With a commitment to delivering exceptional work and exceeding expectations, I'm excited to collaborate on projects that push the boundaries of frontend development. Let's connect and build remarkable web experiences together! 🚀
 
 ## Core Skills and Expertise
 - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
