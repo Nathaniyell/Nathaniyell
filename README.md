@@ -8,7 +8,7 @@
 
 ## 👋 Introduction  
 
-Hi there! I'm **Nathaniel Essien**, a detail-driven Frontend Engineer passionate about crafting user-centric web applications that elevate brand visibility.  
+Hi there! I'm a detail-driven Frontend Engineer passionate about crafting user-centric web applications that elevate brand visibility.  
 I specialize in:  
 - Translating concepts into impactful digital solutions  
 - Utilizing cutting-edge technologies like **React**, **Vue**, **Next.js**, **Nuxt.js**, **TypeScript**, **TailwindCSS**, and more  
