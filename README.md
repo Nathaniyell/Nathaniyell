@@ -60,7 +60,7 @@ Let’s connect and build remarkable web experiences together! 🚀
 ## ⚙️ GitHub Stats  
 
 <p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nathaniyell&theme=tokyonight&cache_bust=1" alt="GitHub Streak" /><br />
+<!--   ![Activity Stats](https://github-readme-streak-stats.herokuapp.com/?user=Nathaniyell&theme=tokyonight&showicons=true) -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nathaniyell&count_private=true&theme=tokyonight&showicons=true" alt="GitHub Stats" /><br />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathaniyell&langs_count=5&theme=tokyonight" alt="Language Stats" />
 </p>
