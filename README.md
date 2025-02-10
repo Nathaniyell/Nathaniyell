@@ -1,4 +1,4 @@
-# Nathaniel Essien - Front End Developer  
+# Nathaniel Essien - Software Developer  
 
 <p align="left">  
   <img src="https://komarev.com/ghpvc/?username=nathaniyell&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />  
@@ -8,12 +8,12 @@
 
 ## 👋 Introduction  
 
-Hi there! I'm a detail-driven Frontend Engineer passionate about crafting user-centric web applications that elevate brand visibility.  
+Hi there! I'm a detail-driven Software Developer passionate about crafting user-centric web applications that elevate brand visibility.  
 I specialize in:  
 - Translating concepts into impactful digital solutions  
 - Utilizing cutting-edge technologies like **React**, **Vue**, **Next.js**, **Nuxt.js**, **TypeScript**, **TailwindCSS**, and more  
 
-With a commitment to delivering exceptional work and exceeding expectations, I’m excited to collaborate on projects that push the boundaries of frontend development.  
+With a commitment to delivering exceptional work and exceeding expectations, I’m excited to collaborate on projects that push the boundaries of software development.  
 
 Let’s connect and build remarkable web experiences together! 🚀  
 
