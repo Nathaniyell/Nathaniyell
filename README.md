@@ -1,4 +1,4 @@
-# 🚀 Nathaniel Essien - Software Developer  
+# Nathaniel Essien - Software Developer  
 
 <p align="left">  
   <img src="https://komarev.com/ghpvc/?username=nathaniyell&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />  
@@ -19,15 +19,9 @@ Let’s connect and build **remarkable web experiences** together! 🚀
 
 ## 🛠️ Core Skills & Expertise  
 
-[![Core Skills](https://skillicons.dev/icons?i=react,vue,nextjs,nuxtjs,js,ts,cypress,git,bitbucket,gitlab,pinia,html,css,tailwindcss,materialui,styledcomponents,vuetify,mongodb,postgres,mysql,sqlite,firebase,supabase,express,nodejs,prisma,docker,postman)](https://skillicons.dev)  
+[![Core Skills](https://skillicons.dev/icons?i=react,vue,nextjs,nuxtjs,js,ts,cypress,git,bitbucket,gitlab,pinia,html,css,tailwindcss,materialui,styledcomponents,vuetify,mongodb,postgres,firebase,supabase,express,nodejs,prisma,postman)](https://skillicons.dev)  
 
 ![ShadCN](https://img.shields.io/badge/shadcn-ui-%2320232A.svg?style=for-the-badge&logoColor=white)  
-
----
-
-## 📚 Currently Learning  
-
-[![Learning](https://skillicons.dev/icons?i=python,django)](https://skillicons.dev)  
 
 ---
 
